@@ -1,4 +1,4 @@
-const API_KEY = "mDkm8P7VO95RNa3u-PZv-YZ31O5_yj88efCwWBAOSsA";
+const API_KEY = "-wXO_5z244BkDCapquhH4XvYlv2paMmwcQEL2ZODGj8";
 const gallery =
 document.getElementById("gallery");
 const loader =
